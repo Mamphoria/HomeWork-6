@@ -1,0 +1,43 @@
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* <<<Header>>> */
+
+header{
+    width: 100%;
+    padding: 44px 98px 79px 98px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    gap: 91px;
+}
+
+.header_logo{
+    color: #758BFD;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    margin-right: 521px;
+}
+
+.logo_color_2{
+    color: #27187F;
+}
+
+li a{
+    color: #8172D5;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
