@@ -159,13 +159,15 @@ input{
     font-weight: 700;
 }
 
-.icon{
-    width: 35px;
-    height: 30px;
+.fa-magnifying-glass{
+    /* width: 35px;
+    height: 30px; */
     position: absolute;
     cursor: pointer;
     top: 0;
     right: 0;
-    margin-top: 6px;
-    margin-right: 4px;
+    margin-top: 20px;
+    margin-right: 8px;
+    color: 
+    #9747FF;
 }
